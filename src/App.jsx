@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import EventListPage from './components/EventListPage';
 import EventDetailsPage from './components/EventDetailsPage';
-import BookingCartPage from './components/BookingCartPage';
+import BookingCartPage from '../src/components/BookingcartPage';
 import NotFound from './components/NotFound';
 
 export default function App() {
