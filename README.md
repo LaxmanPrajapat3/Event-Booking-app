@@ -1,6 +1,7 @@
 # Event Booking Web App
 
 A React.js web application for browsing, viewing, and booking events. Built for the **React.js Intern Assignment**. The app demonstrates reusable components, state management, routing, and simple animations.
+Live-Demo: https://event-booking-app-psi-beryl.vercel.app/
 
 ---
 
