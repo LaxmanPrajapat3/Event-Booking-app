@@ -32,9 +32,10 @@ Live-Demo: https://event-booking-app-psi-beryl.vercel.app/
 1. **Clone the repository**
 
     git clone https://github.com/LaxmanPrajapat3/Event-Booking-app
+
     cd Event-Booking-app
 
-2. **Install dependencies**
+3. **Install dependencies**
    npm install
    npm run dev
 
